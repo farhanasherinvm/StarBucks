@@ -1,0 +1,232 @@
+@font-face {
+    font-family: "myfont-bold";
+    src: url('/Font/SoDoSans-BlackItalic.eot');
+}
+.nav{
+    background-color: gold;
+    height:100%;
+    width: 100%;
+}
+.body{
+
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.header{
+    width: 100%;
+    height: 10%;
+    position: fixed;
+    margin-top: -1%;
+  
+}
+.bttn{
+    border-radius: 1.25rem; 
+      padding: 10px 20px;
+      background-color:white; 
+      color:#212529; 
+      font-size: 13px;
+      border: none; 
+      cursor: pointer;
+      display: flex;
+      align-items: center;
+}
+.sub{
+    padding-top: 15px;
+    display: flex;
+}
+.container{
+    display: flex;
+    width: 100%;
+    height:10%;
+
+}
+.container1{
+    background-color: chartreuse;
+height: 60px;
+width: 300px;
+margin-left: auto;
+margin-top: 1%;
+}
+.container2{
+    background-color: darkolivegreen;
+    height: 60px;
+    width: 50px;
+    margin-top: 1%;
+}
+.profile{
+    height: 100px;
+    width: 100px;
+    padding-top: 70%;
+    padding-left: 70%;
+}
+.kkk{
+height: 90px;
+width: 100%;
+margin-top: 1%;
+}
+.kj{
+    width:20% ;
+    height: 100%;
+    margin-left: 40%;
+}
+.k{
+    width: 30%;
+    height: 65px;
+    margin-left:10%;
+    padding-top: 15px;
+}
+
+.p{
+    margin-left: 20px;
+    
+}
+.log img{
+    height: 50px;
+    width: 50px;
+}
+.pics{
+    background-color: blueviolet;
+    display: flex;
+   
+}
+.pics img{
+    width: 106px; 
+    height: 106px;
+    border-radius: 50%;
+    overflow: hidden; 
+    margin-right: 104px;
+}
+.para{
+    display: flex;
+    margin-top: 9%;
+    width: auto;
+    height: auto;
+    padding-top: 5%;
+
+}
+
+.bd{
+    width: auto;
+    height: 300px;
+}
+.bod img{
+width: 95px;
+height: 210px;
+}
+.bod{
+    width: 10%;
+}
+.pin{
+    width: 50%;
+}
+.button{
+    margin-left: auto;
+    margin-top: auto;
+}
+.shape{
+    border-radius: 1.25rem; 
+    padding: 10px 80px;
+background-color:white; 
+color: rgb(13, 9, 9); 
+font-size: 13px;
+border: none; 
+cursor: pointer
+}
+.menu{
+    height:50%;
+}
+.short img{
+   width: 120px;
+   height: 70px;
+}
+.baner h1{
+    font-family: 'Roboto', sans-serif;
+}
+.short1{
+    background-color: cadetblue;
+    width: 40%;
+    height: 70%;
+    margin-right: 2%;
+    display: flex;
+}
+.mainshort{
+    display: flex;
+}
+.sh{
+    margin-top: 6%;
+}
+.s{
+    margin-top: -19%;
+}
+.ss{
+    margin-top: -13%;
+}
+.short{
+        width: 70px;
+        height: 70px; 
+        border: 1px solid #ccc;
+        box-sizing: border-box;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+      }
+.short img {
+      max-width: 100%;
+      max-height:100%;
+      }
+      .B{
+        margin-left: auto;
+        margin-top:23%;
+      }
+
+      .menu1{
+        display: flex;
+      }
+      .hd{
+        margin-left:auto;
+        padding-top: 3%;
+      }
+      .menu2{
+        background-image: url('./web_ab5a0057ab.jpg');
+        background-size: cover; 
+        background-repeat: no-repeat; 
+        background-position: center center; 
+
+    }
+.style{
+    padding-top: 20%;
+}
+.h{
+    padding-bottom: 4%;
+    margin-top: -7%;
+}
+
+.footerhead{
+ width: auto;
+ height: 20%;
+}
+.foot{
+    margin-left: 7%;
+}
+.lg img{
+    height: 50px;
+    width: 50px;
+    padding-top: 3%;
+}
+.footer{
+    display: flex;
+    margin-left: 10%;
+    padding-top: 3%;
+}
+.footerline{
+    margin-left: 10%;
+}
+.footerline2{
+    margin-left: 25%;
+}
+.line{
+    display: flex;
+}
+.learn{
+    padding-bottom: 3%;
+}
